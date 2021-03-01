@@ -2,7 +2,7 @@
 
 ![Logo](dodologo.jpg "Logo de Dodo CRM")
 
-## ¿Qué es Dodo CMR?
+## ¿Qué es Dodo CRM?
 
 Dodo CRM es un software que funciona como un servidor en la nube (SaaS - Software as a Service) que permite administrar la relación con tus clientes. **Dodo CRM** te ayuda a incrementar las ventas, ya que tendrás, en todo momento, el control de tus datos desde que se genera una nueva oportunidad de negocio (por ejemplo, el registro de un contacto interesado en tu producto o servicio) hasta que se concrete o se cierre la venta con una factura. Además, podrás dar un efectivo servicio *post-venta* utilizando el módulo de *mesa de ayuda* de **Dodo CMR**. <br>
 <br>
